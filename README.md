@@ -4,7 +4,7 @@ As an international student, managing groceries and cooking has always been a ch
 
 ---
 
-**For Project Report:** [click here](https://github.com/Ashutosh-0709/Academic_Projects/blob/main/PM%20Project%20Final%20edit.pdf)
+**Below is the Presentation, for Project Report:** [click here](https://github.com/Ashutosh-0709/Academic_Projects/blob/main/PM%20Project%20Final%20edit.pdf)
 
   <img width="1115" alt="Screenshot 2024-06-11 at 5 00 47 PM" src="https://github.com/Ashutosh-0709/Academic_Projects/assets/172420977/e85021e4-5dcf-42be-b9e3-ffced1968586">
   <img width="1115" alt="Screenshot 2024-06-11 at 5 01 48 PM" src="https://github.com/Ashutosh-0709/Academic_Projects/assets/172420977/576666ac-21b3-4ae8-a8b0-af32db9f8948">
